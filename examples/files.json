@@ -44,6 +44,7 @@
 		"webgl_geometry_text_shapes",
 		"webgl_geometry_text_stroke",
 		"webgl_helpers",
+		"webgl_helper_boxhelper",
 		"webgl_instancing_morph",
 		"webgl_instancing_dynamic",
 		"webgl_instancing_performance",
@@ -302,6 +303,7 @@
 		"webgl_performance"
 	],
 	"webgpu (wip)": [
+		"webgpu_buffergeometry_drawrange",
 		"webgpu_backdrop",
 		"webgpu_backdrop_area",
 		"webgpu_backdrop_water",
